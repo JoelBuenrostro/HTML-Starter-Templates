@@ -1,4 +1,4 @@
-# Cpntributing to HTML Starter Templates
+# Contributing to HTML Starter Templates
 
 First off, thanks for taking the time to contribute!
 
