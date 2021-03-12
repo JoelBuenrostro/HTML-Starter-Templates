@@ -1,0 +1,25 @@
+#header {
+    position: absolute;
+    width: 1980px;
+    height: 400px;
+
+    background: #EEEEEE;
+}
+
+#body {
+    position: absolute;
+    width: 1980px;
+    height: 1380px;
+    top: 400px;
+
+    background: #FFFFFF;
+}
+
+#footer {
+    position: absolute;
+    width: 1980px;
+    height: 200px;
+    top: 1780px;
+
+    background: #EEEEEE;
+}
