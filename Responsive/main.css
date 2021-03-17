@@ -2,12 +2,19 @@
     box-sizing: border-box;
 }
 
-.header {
-    border: 1px solid black;
-    padding: 15px;
+.flex-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    background-color: black;
+    padding: 10px;
 }
 
-.main {
-    padding: 15px;
-    border: 1px solid black;
+.flex-container div {
+    background-color: gainsboro;
+    margin: 20px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border: 2px solid black;
 }
