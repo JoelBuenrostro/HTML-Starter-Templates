@@ -11,6 +11,6 @@ Always write a clear log message for your commits. One-line messages are fine fo
 ## Coding conventions
 
 * We indent using two spaces (soft tabs)
-* We use HAML for all views
+* We use HTML for all views
 * We ALWAYS put spaces after list items and method parameters ([1, 2, 3], not [1,2,3]), around operators (x += 1, not x+=1), and around hash arrows.
 * This is open source software. Consider the people who will read your code, and make it look nice for them.

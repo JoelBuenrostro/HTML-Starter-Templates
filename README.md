@@ -6,7 +6,7 @@ CSS is the language we use to style an HTML document.
 
 ## Scope
 
-HTML starter templates seeks to collect various templates with different approaches to start web projects quickly, easily and efficiently.
+HTML starter templates seek to collect various templates with different approaches to starting web projects quickly, easily and efficiently.
 
 ## Structure
 
