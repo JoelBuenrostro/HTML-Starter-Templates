@@ -8,6 +8,7 @@ CSS is the language we use to style an HTML document.
 
 - [Scope](#scope)
 - [Structure](#structure)
+- [Acknowledgments](#acknowlegments)
 
 ## Scope
 
@@ -17,4 +18,7 @@ HTML starter templates seek to collect various templates with different approach
 
 Each folder within this repository contains a template design with its respective HTML and CSS files.
 
-## Acknoledgments
+## Acknowledgments
+
+- [W3schools](https://www.w3schools.com/)
+- [Front-end chacklist](https://frontendchecklist.io/)
