@@ -8,7 +8,7 @@ CSS is the language we use to style an HTML document.
 
 - [Scope](#scope)
 - [Structure](#structure)
-- [Acknowledgments](#acknowlegments)
+- [Acknowledgments](#acknowledgments)
 
 ## Scope
 
