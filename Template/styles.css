@@ -14,6 +14,23 @@ a {
   text-decoration: none;
 }
 
+body {
+  margin: 0;
+}
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+main {
+  display: block;
+}
+
+small {
+  font-size: 80%;
+}
+
 /*Classes*/
 .container {
   display: flex;
